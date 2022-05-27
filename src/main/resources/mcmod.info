@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hyscalper",
+  "name": "HyScalper",
+  "description": "HyScalper - A Hypixel Skyblock auction flip helper mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rubby"],
+  "credits": "T",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
